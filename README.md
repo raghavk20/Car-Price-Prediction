@@ -42,7 +42,7 @@ The image attached below shows the reference of the details that are contained i
 
 The tasks that are to be done in this project are divided into various categories namely
 
-- [ ] Data exploration and understanding
+# Data exploration and understanding
 
 ![image](https://user-images.githubusercontent.com/73659436/157187541-f89e5bbd-0efd-4a9d-b18c-30b4ea243212.png)
 
@@ -79,9 +79,9 @@ Some of the Categorical variables include
 
 
 
-- [ ] Data Cleaning
-- [ ] Data Mining
-- [ ] Building the suitable model and evaluating it
+# Data Cleaning
+# Data Mining
+# Building the suitable model and evaluating it
 
 
 
