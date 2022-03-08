@@ -37,6 +37,7 @@ The image attached below shows the reference of the details that are contained i
 
 ![image](https://user-images.githubusercontent.com/73659436/157170886-bdc786a6-2c75-4180-bb39-8682ed87c158.png)
 
-
+# Model used 
+Multiple linear regression model is used which is characterized by more than 1 independent variables. 
 # Tasks to perform on the dataset
 
