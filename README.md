@@ -33,5 +33,10 @@ The dataset has 26 columns which has details of
 
 to name a few. These are the primary needs the customer looks into before buying a second hand car. We can also add some additional features that can enhance the chances of the customer and also helps in the sales of the cars
 
+The image attached below shows the reference of the details that are contained in the dataset
+
+![image](https://user-images.githubusercontent.com/73659436/157170769-d55c0ee7-720c-446c-b902-81df5cc6bac7.png)
+
+
 # Tasks to perform on the dataset
 
