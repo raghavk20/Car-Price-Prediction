@@ -1,4 +1,4 @@
-# Car-Price-Prediction
+# Car Price Prediction
 
 # Objective and Problem Statement
 
