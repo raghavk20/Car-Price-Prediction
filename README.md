@@ -96,7 +96,12 @@ There are no missing values in the dataset and also all the columns in the datas
 
 # Building the suitable model and evaluating it
 
+After deciding upon the data preparation, we finally come to the model building part wherein the final model is built using 6 different features as shown in the figure and we get the value of r2-squared to be 0.8851 which tends the model to have accuracy of 88.51%
 
+![image](https://user-images.githubusercontent.com/73659436/157193097-3a862dcc-1086-4c08-8a2b-e60ae64b61ab.png)
 
+# Evaluating the final model
 
+In the model, we must ensure to test that the error terms are always normally distributed having mean equal to zero, with less correlation with the predictors and lastly, the variance of the error terms must be constant. We then plot the error terms. Thus, we come to know that the conclusion that final predictors have high value of correlation
 
+![image](https://user-images.githubusercontent.com/73659436/157193794-479fa8bf-ca4b-40fe-8d5b-27d40b2b3a0f.png)
