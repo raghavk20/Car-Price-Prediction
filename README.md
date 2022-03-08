@@ -21,7 +21,17 @@ https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 # Details about the dataset
 
-The dataset has 26 columns which has details of the unique ID, where no two cars can have same ID, the next is the Region where the car is available followed by Price of the car and includes the price range, the year of manufacture like 2020, 2021 etc., brand or type of the car, name of the manufacturer, the model to name a few. These are the primary needs the customer looks into before buying a second hand car. We can also add some additional features and think 
+The dataset has 26 columns which has details of 
+
+- [ ] Unique ID, where no two cars can have same ID
+- [ ] Region where the car is available 
+- [ ] Price of the car which also includes the price range
+- [ ] Year of manufacture like 2020, 2021 etc
+- [ ] Brand or Type of the car
+- [ ] Name of the manufacturer
+- [ ] Model of the car
+
+to name a few. These are the primary needs the customer looks into before buying a second hand car. We can also add some additional features that can enhance the chances of the customer and also helps in the sales of the cars
 
 # Tasks to perform on the dataset
 
