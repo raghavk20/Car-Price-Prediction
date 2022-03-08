@@ -80,7 +80,20 @@ Some of the Categorical variables include
 
 
 # Data Cleaning
-# Data Mining
+
+There are no missing values in the dataset and also all the columns in the dataset are in the correct format except for Symboling which is a Categorical value. Also Data Preprocessing has been done on CarName and have created a new factor or variable instead of former and called it car_company
+
+# Data Preparation
+
+- [ ] Firstly, we need to prepare data for building the model, which requires us to split the data into X and Y as shown in the figure
+- [ ] Secondly, create dummy variables for the independent variables
+- [ ] Split the dataset into train and test 
+- [ ] Model Building involves building the model with all necessary features using Linear Regression. We find out that the value as r-squared as 83% 
+- [ ] Decide and choose the features for building the model. One such way for choosing the features is to plot no of features in the model to the value of r-squared
+ as shown in the figure below
+
+![image](https://user-images.githubusercontent.com/73659436/157192299-d0bf865d-fa58-4475-9580-5af4c6696e52.png)
+
 # Building the suitable model and evaluating it
 
 
