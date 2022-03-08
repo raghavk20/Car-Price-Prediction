@@ -35,7 +35,7 @@ to name a few. These are the primary needs the customer looks into before buying
 
 The image attached below shows the reference of the details that are contained in the dataset
 
-![image](https://user-images.githubusercontent.com/73659436/157170769-d55c0ee7-720c-446c-b902-81df5cc6bac7.png)
+![image](https://user-images.githubusercontent.com/73659436/157170886-bdc786a6-2c75-4180-bb39-8682ed87c158.png)
 
 
 # Tasks to perform on the dataset
