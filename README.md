@@ -2,7 +2,18 @@
 
 # Objective and Problem Statement
 
-The main aim of this project is to predict the price of used cars using the various Machine Learning (ML) models. This can enable the customers to make decisions baesd on different inputs asked namely the brand or type of the car one prefers like Ford, Hyundai etc., choosing a model of the car namely Ford Figo, Hyundai Creta, choosing the location like Delhi, Chennai, Mumbai, the year of manufacture like 2020, 2021 etc., the fuel type namely Petrol, Diesel, the price range, whether the customer prefers Automatic or Manual transmission of cars, the mileage to name a few characterisitic features required by the customer. The project Car Price Prediction deals with providing the solution to these problems
+The main aim of this project is to predict the price of used cars using the various Machine Learning (ML) models. This can enable the customers to make decisions baesd on different inputs namely 
+
+- [ ] Brand or Type of the car one prefers like Ford, Hyundai etc
+- [ ] Model of the car namely Ford Figo, Hyundai Creta
+- [ ] Location like Delhi, Chennai, Mumbai
+- [ ] Year of manufacturing like 2020, 2021 etc
+- [ ] Type of fuel namely Petrol, Diesel
+- [ ] Price range or Budget
+- [ ] Type of transmission which the customer prefers like Automatic or Manual 
+- [ ] Mileage 
+
+to name a few characterisitic features required by the customer. The project Car Price Prediction deals with providing the solution to these problems
 
 # Dataset
 
