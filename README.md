@@ -2,7 +2,7 @@
 
 # Objective and Problem Statement
 
-The main aim of this project is to predict the price of used cars using the various Machine Learning (ML) models. This can enable the customers to make decisions baesd on different inputs namely 
+The main aim of this project is to predict the price of used cars using the various Machine Learning (ML) models. This can enable the customers to make decisions baesd on different inputs or factors namely 
 
 - [ ] Brand or Type of the car one prefers like Ford, Hyundai etc
 - [ ] Model of the car namely Ford Figo, Hyundai Creta
@@ -13,7 +13,7 @@ The main aim of this project is to predict the price of used cars using the vari
 - [ ] Type of transmission which the customer prefers like Automatic or Manual 
 - [ ] Mileage 
 
-to name a few characterisitic features required by the customer. The project Car Price Prediction deals with providing the solution to these problems
+to name a few characterisitic features required by the customer. The project Car Price Prediction deals with providing the solution to these problems. Through this project, we will get to know which of the factors are significant and tell us how they affect the car's worth in the market
 
 # Dataset
 
@@ -39,4 +39,51 @@ The image attached below shows the reference of the details that are contained i
 
 
 # Tasks to perform on the dataset
+
+The tasks that are to be done in this project are divided into various categories namely
+
+- [ ] Data exploration and understanding
+
+![image](https://user-images.githubusercontent.com/73659436/157187541-f89e5bbd-0efd-4a9d-b18c-30b4ea243212.png)
+
+The image shown above describes us that the dataset has 205 rows and 26 columns. All the columns except Price are independent factors or variables. We again subdivide independent variables as Categorical and Numerical Variables. 
+
+Some of the Numerical variables include
+
+- [ ] wheelbase
+- [ ] carlength
+- [ ] carwidth
+- [ ] carheight
+- [ ] curbweight
+- [ ] enginesize
+- [ ] boreratio’, ‘stroke
+- [ ] compressionratio
+- [ ] horsepower
+- [ ] peakrpm
+- [ ] citympg
+- [ ] highwaympg
+
+Some of the Categorical variables include
+
+- [ ] symboling
+- [ ] fueltype
+- [ ] aspiration
+- [ ] doornumber
+- [ ] carbody
+- [ ] drivewheel
+- [ ] enginelocation
+- [ ] enginetype
+- [ ] cylindernumber
+- [ ] fuelsystem
+- [ ] car_name
+
+
+
+- [ ] Data Cleaning
+- [ ] Data Mining
+- [ ] Building the suitable model and evaluating it
+
+
+
+
 
