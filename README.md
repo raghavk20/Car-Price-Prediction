@@ -47,7 +47,7 @@ The tasks that are to be done in this project are divided into various categorie
 
 ![image](https://user-images.githubusercontent.com/73659436/157187541-f89e5bbd-0efd-4a9d-b18c-30b4ea243212.png)
 
-The image shown above describes us that the dataset has 205 rows and 26 columns. All the columns except Price are independent factors or variables. We again subdivide independent variables as Categorical and Numerical Variables. 
+The image shown above describes us that the dataset has 205 rows and 26 columns. All the columns except Price are independent factors or variables. We again subdivide independent variables as Categorical and Numerical Variables
 
 Some of the Numerical variables include
 
