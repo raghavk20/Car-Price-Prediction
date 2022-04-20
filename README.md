@@ -1,5 +1,11 @@
 # Car Price Prediction
 
+# Note: The coding part of the project was equally shared and contributed by all the 3 team members stated below
+
+- [ ] Venkataraman B (20BCE1499)
+- [ ] Rohit Madhavan S (20BCE1150)
+- [ ] Raghav K (20BCE1468)
+
 # Objective and Problem Statement
 
 The main aim of this project is to predict the price of used cars using the various Machine Learning (ML) models. This can enable the customers to make decisions baesd on different inputs or factors namely 
