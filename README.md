@@ -6,6 +6,8 @@
 - [ ] Rohit Madhavan S (20BCE1150)
 - [ ] Raghav K (20BCE1468)
 
+This can also be seen in the right hand side of the main section --> Contributors
+
 # Objective and Problem Statement
 
 The main aim of this project is to predict the price of used cars using the various Machine Learning (ML) models. This can enable the customers to make decisions baesd on different inputs or factors namely 
